@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to faker’s blog !
 
-You can use the [editor on GitHub](https://github.com/Faker-shine/Faker-shine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'll record my skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+SpringCloud
 
-# Header 1
-## Header 2
-### Header 3
+# SpringCloed-Alibaba
+## 
+### 
 
 - Bulleted
 - List
@@ -26,7 +24,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
